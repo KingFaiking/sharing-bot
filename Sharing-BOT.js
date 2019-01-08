@@ -17,12 +17,10 @@ OP SHOP يرحب بكم :dove:
 تنورنا يالغالي بسيرفرك 
 السيرفر عبارة عن شوب وانا امنيتي انجح 
 لإااتمنى تدخل ياقلبي :heart:
-                               [ رابط السيرفر ] 
+                               [ https://discord.gg/BvmdNax ] 
 الدعووة خاصة لك ياقلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
 
 client.login(process.env.BOT_TOKEN);
-
-//A7MD.login('التوكين حقك');
